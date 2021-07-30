@@ -14,3 +14,6 @@
 
 ## Gridmapping:
 ![gridmap](/gridmaps_framework/plots/gridmap.gif)
+
+## FastSlam:
+![fastslam](/fastslam_framework/plots/fastslam.gif)
