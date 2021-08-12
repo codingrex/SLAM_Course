@@ -20,3 +20,13 @@
 
 ## Odometry Calibration:
 ![odom_correct](odom_calib_framework/plots/odometry-calibration-result.png)
+
+
+## Graph-based SLAM:
+1. On dlr dataset:
+
+![lsslam_dlr](lsslam_framework/plots/lsslam_dlr.gif)
+
+2. On intel research lab dataset:
+
+![lsslam_intel](lsslam_framework/plots/lsslam_intel.gif)
